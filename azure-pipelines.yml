@@ -18,7 +18,7 @@ steps:
     version: '$(dotnetSdkVersion)'
 
 - task: UseDotNet@2
-  displayName: 'GG1 Use .NET Core SDK 2.1.505 for SonarCloud'
+  displayName: 'GG1change001 Use .NET Core SDK 2.1.505 for SonarCloud'
   inputs:
     version: '2.1.505'
 
