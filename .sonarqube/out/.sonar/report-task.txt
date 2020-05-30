@@ -1,0 +1,7 @@
+organization=space-game-web-gmac444
+projectKey=geraldmccormack_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8394
+dashboardUrl=https://sonarcloud.io/dashboard?id=geraldmccormack_mslearn-tailspin-spacegame-web
+ceTaskId=AXJe4s_vc-N5c14K_RXY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJe4s_vc-N5c14K_RXY
